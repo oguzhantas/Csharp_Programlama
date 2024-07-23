@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\bin\Debug\KareAlanıHesaplama.exe.config
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\bin\Debug\KareAlanıHesaplama.exe
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\bin\Debug\KareAlanıHesaplama.pdb
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\obj\Debug\KareAlanıHesaplama.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\obj\Debug\KareAlanıHesaplama.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\obj\Debug\KareAlanıHesaplama.exe
+D:\Yeni_CSharp_Kodlar\KareAlanıHesaplama\obj\Debug\KareAlanıHesaplama.pdb

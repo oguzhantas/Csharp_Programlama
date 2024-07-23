@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\bin\Debug\MerhabaDunya.exe.config
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\bin\Debug\MerhabaDunya.exe
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\bin\Debug\MerhabaDunya.pdb
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\obj\Debug\MerhabaDunya.exe
+D:\Yeni_CSharp_Kodlar\MerhabaDunya\obj\Debug\MerhabaDunya.pdb

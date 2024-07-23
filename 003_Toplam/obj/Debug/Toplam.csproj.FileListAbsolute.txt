@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\Toplam\bin\Debug\Toplam.exe.config
+D:\Yeni_CSharp_Kodlar\Toplam\bin\Debug\Toplam.exe
+D:\Yeni_CSharp_Kodlar\Toplam\bin\Debug\Toplam.pdb
+D:\Yeni_CSharp_Kodlar\Toplam\obj\Debug\Toplam.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\Toplam\obj\Debug\Toplam.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\Toplam\obj\Debug\Toplam.exe
+D:\Yeni_CSharp_Kodlar\Toplam\obj\Debug\Toplam.pdb

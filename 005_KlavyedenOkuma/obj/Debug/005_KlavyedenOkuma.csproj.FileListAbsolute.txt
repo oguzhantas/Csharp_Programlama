@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\bin\Debug\005_KlavyedenOkuma.exe.config
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\bin\Debug\005_KlavyedenOkuma.exe
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\bin\Debug\005_KlavyedenOkuma.pdb
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\obj\Debug\005_KlavyedenOkuma.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\obj\Debug\005_KlavyedenOkuma.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\obj\Debug\005_KlavyedenOkuma.exe
+D:\Yeni_CSharp_Kodlar\005_KlavyedenOkuma\obj\Debug\005_KlavyedenOkuma.pdb

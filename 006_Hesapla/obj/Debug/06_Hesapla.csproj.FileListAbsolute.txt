@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\06_Hesapla\bin\Debug\06_Hesapla.exe.config
+D:\Yeni_CSharp_Kodlar\06_Hesapla\bin\Debug\06_Hesapla.exe
+D:\Yeni_CSharp_Kodlar\06_Hesapla\bin\Debug\06_Hesapla.pdb
+D:\Yeni_CSharp_Kodlar\06_Hesapla\obj\Debug\06_Hesapla.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\06_Hesapla\obj\Debug\06_Hesapla.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\06_Hesapla\obj\Debug\06_Hesapla.exe
+D:\Yeni_CSharp_Kodlar\06_Hesapla\obj\Debug\06_Hesapla.pdb
