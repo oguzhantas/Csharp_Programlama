@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\bin\Debug\008_ZamliMaas.exe.config
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\bin\Debug\008_ZamliMaas.exe
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\bin\Debug\008_ZamliMaas.pdb
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\obj\Debug\008_ZamliMaas.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\obj\Debug\008_ZamliMaas.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\obj\Debug\008_ZamliMaas.exe
+D:\Yeni_CSharp_Kodlar\008_ZamliMaas\obj\Debug\008_ZamliMaas.pdb

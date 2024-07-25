@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\bin\Debug\009_Sart_Ehliyet.exe.config
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\bin\Debug\009_Sart_Ehliyet.exe
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\bin\Debug\009_Sart_Ehliyet.pdb
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\obj\Debug\009_Sart_Ehliyet.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\obj\Debug\009_Sart_Ehliyet.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\obj\Debug\009_Sart_Ehliyet.exe
+D:\Yeni_CSharp_Kodlar\009_Sart_Ehliyet\obj\Debug\009_Sart_Ehliyet.pdb

@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\bin\Debug\010_Sart_Suyun_Kaynamasi.exe.config
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\bin\Debug\010_Sart_Suyun_Kaynamasi.exe
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\bin\Debug\010_Sart_Suyun_Kaynamasi.pdb
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\obj\Debug\010_Sart_Suyun_Kaynamasi.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\obj\Debug\010_Sart_Suyun_Kaynamasi.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\obj\Debug\010_Sart_Suyun_Kaynamasi.exe
+D:\Yeni_CSharp_Kodlar\010_Sart_Suyun_Kaynamasi\obj\Debug\010_Sart_Suyun_Kaynamasi.pdb

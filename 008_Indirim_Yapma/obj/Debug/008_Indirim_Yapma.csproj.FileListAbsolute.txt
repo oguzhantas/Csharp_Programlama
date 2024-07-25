@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\bin\Debug\008_Indirim_Yapma.exe.config
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\bin\Debug\008_Indirim_Yapma.exe
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\bin\Debug\008_Indirim_Yapma.pdb
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\obj\Debug\008_Indirim_Yapma.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\obj\Debug\008_Indirim_Yapma.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\obj\Debug\008_Indirim_Yapma.exe
+D:\Yeni_CSharp_Kodlar\008_Indirim_Yapma\obj\Debug\008_Indirim_Yapma.pdb

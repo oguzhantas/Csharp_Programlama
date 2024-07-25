@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\bin\Debug\007_NotOrtalama.exe.config
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\bin\Debug\007_NotOrtalama.exe
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\bin\Debug\007_NotOrtalama.pdb
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\obj\Debug\007_NotOrtalama.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\obj\Debug\007_NotOrtalama.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\obj\Debug\007_NotOrtalama.exe
+D:\Yeni_CSharp_Kodlar\007_NotOrtalama\obj\Debug\007_NotOrtalama.pdb
