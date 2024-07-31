@@ -1,7 +1,0 @@
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\bin\Debug\13 Sart_Yapilari_VEYA.exe.config
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\bin\Debug\13 Sart_Yapilari_VEYA.exe
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\bin\Debug\13 Sart_Yapilari_VEYA.pdb
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\obj\Debug\13 Sart_Yapilari_VEYA.csproj.AssemblyReference.cache
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\obj\Debug\13 Sart_Yapilari_VEYA.csproj.CoreCompileInputs.cache
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\obj\Debug\13 Sart_Yapilari_VEYA.exe
-D:\Yeni_CSharp_Kodlar\13 Sart_Yapilari_VEYA\obj\Debug\13 Sart_Yapilari_VEYA.pdb
