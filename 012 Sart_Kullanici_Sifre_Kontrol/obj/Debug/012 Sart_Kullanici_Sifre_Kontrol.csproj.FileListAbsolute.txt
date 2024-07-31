@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\bin\Debug\012 Sart_Kullanici_Sifre_Kontrol.exe.config
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\bin\Debug\012 Sart_Kullanici_Sifre_Kontrol.exe
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\bin\Debug\012 Sart_Kullanici_Sifre_Kontrol.pdb
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\obj\Debug\012 Sart_Kullanici_Sifre_Kontrol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\obj\Debug\012 Sart_Kullanici_Sifre_Kontrol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\obj\Debug\012 Sart_Kullanici_Sifre_Kontrol.exe
+D:\Yeni_CSharp_Kodlar\012 Sart_Kullanici_Sifre_Kontrol\obj\Debug\012 Sart_Kullanici_Sifre_Kontrol.pdb

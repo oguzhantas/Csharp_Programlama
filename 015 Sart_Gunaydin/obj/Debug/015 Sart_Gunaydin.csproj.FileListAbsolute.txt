@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\bin\Debug\015 Sart_Gunaydin.exe.config
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\bin\Debug\015 Sart_Gunaydin.exe
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\bin\Debug\015 Sart_Gunaydin.pdb
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\obj\Debug\015 Sart_Gunaydin.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\obj\Debug\015 Sart_Gunaydin.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\obj\Debug\015 Sart_Gunaydin.exe
+D:\Yeni_CSharp_Kodlar\015 Sart_Gunaydin\obj\Debug\015 Sart_Gunaydin.pdb

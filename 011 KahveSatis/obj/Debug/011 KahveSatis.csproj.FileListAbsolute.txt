@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\bin\Debug\011 KahveSatis.exe.config
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\bin\Debug\011 KahveSatis.exe
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\bin\Debug\011 KahveSatis.pdb
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\obj\Debug\011 KahveSatis.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\obj\Debug\011 KahveSatis.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\obj\Debug\011 KahveSatis.exe
+D:\Yeni_CSharp_Kodlar\011 KahveSatis\obj\Debug\011 KahveSatis.pdb

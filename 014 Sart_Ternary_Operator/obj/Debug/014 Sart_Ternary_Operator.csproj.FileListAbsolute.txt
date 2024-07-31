@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\bin\Debug\014 Sart_Ternary_Operator.exe.config
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\bin\Debug\014 Sart_Ternary_Operator.exe
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\bin\Debug\014 Sart_Ternary_Operator.pdb
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\obj\Debug\014 Sart_Ternary_Operator.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\obj\Debug\014 Sart_Ternary_Operator.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\obj\Debug\014 Sart_Ternary_Operator.exe
+D:\Yeni_CSharp_Kodlar\014 Sart_Ternary_Operator\obj\Debug\014 Sart_Ternary_Operator.pdb
