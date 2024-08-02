@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\bin\Debug\18 Button Kullanimi.exe.config
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\bin\Debug\18 Button Kullanimi.exe
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\bin\Debug\18 Button Kullanimi.pdb
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\18 Button Kullanimi.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\_18_Button_Kullanimi.Form1.resources
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\_18_Button_Kullanimi.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\18 Button Kullanimi.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\18 Button Kullanimi.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\18 Button Kullanimi.exe
+D:\Yeni_CSharp_Kodlar\18 Button Kullanimi\obj\Debug\18 Button Kullanimi.pdb

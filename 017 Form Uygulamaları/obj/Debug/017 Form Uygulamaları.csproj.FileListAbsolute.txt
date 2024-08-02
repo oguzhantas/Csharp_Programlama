@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\bin\Debug\017 Form Uygulamaları.exe.config
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\bin\Debug\017 Form Uygulamaları.exe
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\bin\Debug\017 Form Uygulamaları.pdb
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\017 Form Uygulamaları.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\_017_Form_Uygulamaları.Form1.resources
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\_017_Form_Uygulamaları.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\017 Form Uygulamaları.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\017 Form Uygulamaları.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\017 Form Uygulamaları.exe
+D:\Yeni_CSharp_Kodlar\017 Form Uygulamaları\obj\Debug\017 Form Uygulamaları.pdb
