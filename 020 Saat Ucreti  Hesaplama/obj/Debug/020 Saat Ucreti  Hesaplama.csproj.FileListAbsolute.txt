@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\bin\Debug\020 Saat Ucreti  Hesaplama.exe.config
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\bin\Debug\020 Saat Ucreti  Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\bin\Debug\020 Saat Ucreti  Hesaplama.pdb
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\020 Saat Ucreti  Hesaplama.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\_020_Saat_Ucreti__Hesaplama.Form1.resources
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\_020_Saat_Ucreti__Hesaplama.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\020 Saat Ucreti  Hesaplama.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\020 Saat Ucreti  Hesaplama.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\020 Saat Ucreti  Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\020 Saat Ucreti  Hesaplama\obj\Debug\020 Saat Ucreti  Hesaplama.pdb

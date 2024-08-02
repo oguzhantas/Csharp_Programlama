@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\019 DortIslem\bin\Debug\019 DortIslem.exe.config
+D:\Yeni_CSharp_Kodlar\019 DortIslem\bin\Debug\019 DortIslem.exe
+D:\Yeni_CSharp_Kodlar\019 DortIslem\bin\Debug\019 DortIslem.pdb
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\019 DortIslem.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\_019_DortIslem.Form1.resources
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\_019_DortIslem.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\019 DortIslem.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\019 DortIslem.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\019 DortIslem.exe
+D:\Yeni_CSharp_Kodlar\019 DortIslem\obj\Debug\019 DortIslem.pdb
