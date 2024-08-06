@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\bin\Debug\024 Ternary Operator.exe.config
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\bin\Debug\024 Ternary Operator.exe
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\bin\Debug\024 Ternary Operator.pdb
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\024 Ternary Operator.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\_024_Ternary_Operator.Form1.resources
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\_024_Ternary_Operator.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\024 Ternary Operator.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\024 Ternary Operator.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\024 Ternary Operator.exe
+D:\Yeni_CSharp_Kodlar\024 Ternary Operator\obj\Debug\024 Ternary Operator.pdb

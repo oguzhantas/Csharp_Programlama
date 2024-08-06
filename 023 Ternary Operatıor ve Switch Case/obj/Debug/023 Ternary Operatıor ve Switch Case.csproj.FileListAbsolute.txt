@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\bin\Debug\023 Ternary Operatıor ve Switch Case.exe.config
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\bin\Debug\023 Ternary Operatıor ve Switch Case.exe
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\bin\Debug\023 Ternary Operatıor ve Switch Case.pdb
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\023 Ternary Operatıor ve Switch Case.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\_023_Ternary_Operatıor_ve_Switch_Case.Form1.resources
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\_023_Ternary_Operatıor_ve_Switch_Case.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\023 Ternary Operatıor ve Switch Case.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\023 Ternary Operatıor ve Switch Case.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\023 Ternary Operatıor ve Switch Case.exe
+D:\Yeni_CSharp_Kodlar\023 Ternary Operatıor ve Switch Case\obj\Debug\023 Ternary Operatıor ve Switch Case.pdb

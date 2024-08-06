@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\bin\Debug\022 Boy Kitle İndeksi Hesaplama.exe.config
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\bin\Debug\022 Boy Kitle İndeksi Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\bin\Debug\022 Boy Kitle İndeksi Hesaplama.pdb
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\022 Boy Kitle İndeksi Hesaplama.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\_022_Boy_Kitle_İndeksi_Hesaplama.Form1.resources
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\_022_Boy_Kitle_İndeksi_Hesaplama.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\022 Boy Kitle İndeksi Hesaplama.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\022 Boy Kitle İndeksi Hesaplama.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\022 Boy Kitle İndeksi Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\022 Boy Kitle İndeksi Hesaplama\obj\Debug\022 Boy Kitle İndeksi Hesaplama.pdb
