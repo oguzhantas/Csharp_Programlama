@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\bin\Debug\026 For ile Bolunebilme.exe.config
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\bin\Debug\026 For ile Bolunebilme.exe
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\bin\Debug\026 For ile Bolunebilme.pdb
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\obj\Debug\026 For ile Bolunebilme.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\obj\Debug\026 For ile Bolunebilme.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\obj\Debug\026 For ile Bolunebilme.exe
+D:\Yeni_CSharp_Kodlar\026 For ile Bolunebilme\obj\Debug\026 For ile Bolunebilme.pdb

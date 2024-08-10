@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\bin\Debug\025 For Tek Sayilar Konsol.exe.config
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\bin\Debug\025 For Tek Sayilar Konsol.exe
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\bin\Debug\025 For Tek Sayilar Konsol.pdb
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\obj\Debug\025 For Tek Sayilar Konsol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\obj\Debug\025 For Tek Sayilar Konsol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\obj\Debug\025 For Tek Sayilar Konsol.exe
+D:\Yeni_CSharp_Kodlar\025 For Tek Sayilar Konsol\obj\Debug\025 For Tek Sayilar Konsol.pdb

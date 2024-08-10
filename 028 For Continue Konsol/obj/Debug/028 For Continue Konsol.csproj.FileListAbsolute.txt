@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\bin\Debug\028 For Continue Konsol.exe.config
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\bin\Debug\028 For Continue Konsol.exe
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\bin\Debug\028 For Continue Konsol.pdb
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\obj\Debug\028 For Continue Konsol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\obj\Debug\028 For Continue Konsol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\obj\Debug\028 For Continue Konsol.exe
+D:\Yeni_CSharp_Kodlar\028 For Continue Konsol\obj\Debug\028 For Continue Konsol.pdb

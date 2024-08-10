@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\bin\Debug\027 For ile Toplam.exe.config
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\bin\Debug\027 For ile Toplam.exe
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\bin\Debug\027 For ile Toplam.pdb
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\obj\Debug\027 For ile Toplam.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\obj\Debug\027 For ile Toplam.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\obj\Debug\027 For ile Toplam.exe
+D:\Yeni_CSharp_Kodlar\027 For ile Toplam\obj\Debug\027 For ile Toplam.pdb
