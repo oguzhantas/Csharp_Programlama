@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029 For Char AZ Konsol", "029 For Char AZ Konsol.csproj", "{394B4693-4041-43F0-9DD6-712C64D6B743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394B4693-4041-43F0-9DD6-712C64D6B743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394B4693-4041-43F0-9DD6-712C64D6B743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394B4693-4041-43F0-9DD6-712C64D6B743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394B4693-4041-43F0-9DD6-712C64D6B743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90169F6D-0E5F-45D9-A4D2-EFDC61844CCF}
+	EndGlobalSection
+EndGlobal

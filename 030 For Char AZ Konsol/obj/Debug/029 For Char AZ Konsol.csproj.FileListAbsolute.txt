@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\bin\Debug\029 For Char AZ Konsol.exe.config
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\bin\Debug\029 For Char AZ Konsol.exe
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\bin\Debug\029 For Char AZ Konsol.pdb
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\obj\Debug\029 For Char AZ Konsol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\obj\Debug\029 For Char AZ Konsol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\obj\Debug\029 For Char AZ Konsol.exe
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\obj\Debug\029 For Char AZ Konsol.pdb

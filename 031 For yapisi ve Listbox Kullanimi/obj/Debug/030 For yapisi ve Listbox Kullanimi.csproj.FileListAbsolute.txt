@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\bin\Debug\030 For yapisi ve Listbox Kullanimi.exe.config
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\bin\Debug\030 For yapisi ve Listbox Kullanimi.exe
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\bin\Debug\030 For yapisi ve Listbox Kullanimi.pdb
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\030 For yapisi ve Listbox Kullanimi.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\_030_For_yapisi_ve_Listbox_Kullanimi.Form1.resources
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\_030_For_yapisi_ve_Listbox_Kullanimi.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\030 For yapisi ve Listbox Kullanimi.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\030 For yapisi ve Listbox Kullanimi.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\030 For yapisi ve Listbox Kullanimi.exe
+D:\Yeni_CSharp_Kodlar\029 For Char AZ Konsol\030 For yapisi ve Listbox Kullanimi\obj\Debug\030 For yapisi ve Listbox Kullanimi.pdb
