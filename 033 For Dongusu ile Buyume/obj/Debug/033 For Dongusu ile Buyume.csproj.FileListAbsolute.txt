@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\bin\Debug\033 For Dongusu ile Buyume.exe.config
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\bin\Debug\033 For Dongusu ile Buyume.exe
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\bin\Debug\033 For Dongusu ile Buyume.pdb
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\033 For Dongusu ile Buyume.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\_033_For_Dongusu_ile_Buyume.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\033 For Dongusu ile Buyume.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\033 For Dongusu ile Buyume.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\033 For Dongusu ile Buyume.exe
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\033 For Dongusu ile Buyume.pdb
+D:\Yeni_CSharp_Kodlar\033 For Dongusu ile Buyume\obj\Debug\_033_For_Dongusu_ile_Buyume.Form1.resources

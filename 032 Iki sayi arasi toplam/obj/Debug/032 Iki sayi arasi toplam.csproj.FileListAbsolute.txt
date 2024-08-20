@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\bin\Debug\032 Iki sayi arasi toplam.exe.config
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\bin\Debug\032 Iki sayi arasi toplam.exe
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\bin\Debug\032 Iki sayi arasi toplam.pdb
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\032 Iki sayi arasi toplam.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\_032_Iki_sayi_arasi_toplam.Form1.resources
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\_032_Iki_sayi_arasi_toplam.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\032 Iki sayi arasi toplam.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\032 Iki sayi arasi toplam.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\032 Iki sayi arasi toplam.exe
+D:\Yeni_CSharp_Kodlar\032 Iki sayi arasi toplam\obj\Debug\032 Iki sayi arasi toplam.pdb

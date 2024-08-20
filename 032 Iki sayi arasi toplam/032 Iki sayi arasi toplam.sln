@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032 Iki sayi arasi toplam", "032 Iki sayi arasi toplam.csproj", "{AF57E16C-38F7-44FD-99F0-0226A1ADBE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF57E16C-38F7-44FD-99F0-0226A1ADBE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF57E16C-38F7-44FD-99F0-0226A1ADBE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF57E16C-38F7-44FD-99F0-0226A1ADBE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF57E16C-38F7-44FD-99F0-0226A1ADBE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A315AF21-B0AD-4899-9A28-689445B83402}
+	EndGlobalSection
+EndGlobal
