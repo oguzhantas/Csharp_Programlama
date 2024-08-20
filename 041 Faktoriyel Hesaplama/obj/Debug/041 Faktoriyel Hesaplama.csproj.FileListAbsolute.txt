@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\bin\Debug\041 Faktoriyel Hesaplama.exe.config
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\bin\Debug\041 Faktoriyel Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\bin\Debug\041 Faktoriyel Hesaplama.pdb
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\041 Faktoriyel Hesaplama.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\_041_Faktoriyel_Hesaplama.Form1.resources
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\_041_Faktoriyel_Hesaplama.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\041 Faktoriyel Hesaplama.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\041 Faktoriyel Hesaplama.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\041 Faktoriyel Hesaplama.exe
+D:\Yeni_CSharp_Kodlar\041 Faktoriyel Hesaplama\obj\Debug\041 Faktoriyel Hesaplama.pdb

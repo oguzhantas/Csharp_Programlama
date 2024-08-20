@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\bin\Debug\043 Dizilere Giriş.exe.config
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\bin\Debug\043 Dizilere Giriş.exe
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\bin\Debug\043 Dizilere Giriş.pdb
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\043 Dizilere Giriş.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\_043_Dizilere_Giriş.Form1.resources
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\_043_Dizilere_Giriş.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\043 Dizilere Giriş.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\043 Dizilere Giriş.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\043 Dizilere Giriş.exe
+D:\Yeni_CSharp_Kodlar\043 Dizilere Giriş\obj\Debug\043 Dizilere Giriş.pdb
