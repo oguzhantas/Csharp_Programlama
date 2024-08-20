@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\bin\Debug\038 Sonsuz Dongu Konsol Takim.exe.config
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\bin\Debug\038 Sonsuz Dongu Konsol Takim.exe
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\bin\Debug\038 Sonsuz Dongu Konsol Takim.pdb
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\obj\Debug\038 Sonsuz Dongu Konsol Takim.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\obj\Debug\038 Sonsuz Dongu Konsol Takim.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\obj\Debug\038 Sonsuz Dongu Konsol Takim.exe
+D:\Yeni_CSharp_Kodlar\038 Sonsuz Dongu Konsol Takim\obj\Debug\038 Sonsuz Dongu Konsol Takim.pdb

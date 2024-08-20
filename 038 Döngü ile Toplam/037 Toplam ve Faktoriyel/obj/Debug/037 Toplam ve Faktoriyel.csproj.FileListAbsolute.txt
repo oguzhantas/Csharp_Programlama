@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\bin\Debug\037 Toplam ve Faktoriyel.exe.config
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\bin\Debug\037 Toplam ve Faktoriyel.exe
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\bin\Debug\037 Toplam ve Faktoriyel.pdb
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\037 Toplam ve Faktoriyel.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\_037_Toplam_ve_Faktoriyel.Form1.resources
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\_037_Toplam_ve_Faktoriyel.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\037 Toplam ve Faktoriyel.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\037 Toplam ve Faktoriyel.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\037 Toplam ve Faktoriyel.exe
+D:\Yeni_CSharp_Kodlar\037 Toplam ve Faktoriyel\037 Toplam ve Faktoriyel\obj\Debug\037 Toplam ve Faktoriyel.pdb
