@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\bin\Debug\037 Sonsuz Döngü Konsol.exe.config
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\bin\Debug\037 Sonsuz Döngü Konsol.exe
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\bin\Debug\037 Sonsuz Döngü Konsol.pdb
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\obj\Debug\037 Sonsuz Döngü Konsol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\obj\Debug\037 Sonsuz Döngü Konsol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\obj\Debug\037 Sonsuz Döngü Konsol.exe
+D:\Yeni_CSharp_Kodlar\037 Sonsuz Döngü Konsol\obj\Debug\037 Sonsuz Döngü Konsol.pdb

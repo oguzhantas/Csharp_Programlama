@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\036 While Dongusu.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\_036_While_Dongusu.Form1.resources
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\_036_While_Dongusu.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\036 While Dongusu.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\036 While Dongusu.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\bin\Debug\036 While Dongusu.exe.config
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\bin\Debug\036 While Dongusu.exe
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\bin\Debug\036 While Dongusu.pdb
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\036 While Dongusu.exe
+D:\Yeni_CSharp_Kodlar\036 While Dongusu\036 While Dongusu\obj\Debug\036 While Dongusu.pdb

@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\bin\Debug\032 Rastgele Sayi Uretme.exe.config
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\bin\Debug\032 Rastgele Sayi Uretme.exe
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\bin\Debug\032 Rastgele Sayi Uretme.pdb
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\032 Rastgele Sayi Uretme.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\_032_Rastgele_Sayi_Uretme.Form1.resources
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\_032_Rastgele_Sayi_Uretme.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\032 Rastgele Sayi Uretme.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\032 Rastgele Sayi Uretme.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\032 Rastgele Sayi Uretme.exe
+D:\Yeni_CSharp_Kodlar\032 Rastgele Sayi Uretme\obj\Debug\032 Rastgele Sayi Uretme.pdb
