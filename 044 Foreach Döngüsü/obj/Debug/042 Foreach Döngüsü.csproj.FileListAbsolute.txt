@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\042 Foreach Döngüsü.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\_042_Foreach_Döngüsü.Form1.resources
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\_042_Foreach_Döngüsü.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\042 Foreach Döngüsü.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\042 Foreach Döngüsü.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\bin\Debug\042 Foreach Döngüsü.exe.config
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\bin\Debug\042 Foreach Döngüsü.exe
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\bin\Debug\042 Foreach Döngüsü.pdb
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\042 Foreach Döngüsü.exe
+D:\Yeni_CSharp_Kodlar\042 Foreach Döngüsü\obj\Debug\042 Foreach Döngüsü.pdb
