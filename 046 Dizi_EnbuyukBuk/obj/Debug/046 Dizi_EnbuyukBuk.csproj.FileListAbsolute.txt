@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\bin\Debug\046 Dizi_EnbuyukBuk.exe.config
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\bin\Debug\046 Dizi_EnbuyukBuk.exe
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\bin\Debug\046 Dizi_EnbuyukBuk.pdb
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\046 Dizi_EnbuyukBuk.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\_046_Dizi_EnbuyukBuk.Form1.resources
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\_046_Dizi_EnbuyukBuk.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\046 Dizi_EnbuyukBuk.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\046 Dizi_EnbuyukBuk.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\046 Dizi_EnbuyukBuk.exe
+D:\Yeni_CSharp_Kodlar\046 Dizi_EnbuyukBuk\obj\Debug\046 Dizi_EnbuyukBuk.pdb

@@ -1,0 +1,7 @@
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\bin\Debug\045 Dizi_Fonksiyonları Konsol.exe.config
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\bin\Debug\045 Dizi_Fonksiyonları Konsol.exe
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\bin\Debug\045 Dizi_Fonksiyonları Konsol.pdb
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\obj\Debug\045 Dizi_Fonksiyonları Konsol.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\obj\Debug\045 Dizi_Fonksiyonları Konsol.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\obj\Debug\045 Dizi_Fonksiyonları Konsol.exe
+C:\Users\honor\source\repos\045 Dizi_Fonksiyonları Konsol\obj\Debug\045 Dizi_Fonksiyonları Konsol.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047 Dizi İki Boyutlu Konsol", "047 Dizi İki Boyutlu Konsol.csproj", "{43ACCA37-73E0-4F1F-AACF-3F8109E57B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43ACCA37-73E0-4F1F-AACF-3F8109E57B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ACCA37-73E0-4F1F-AACF-3F8109E57B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ACCA37-73E0-4F1F-AACF-3F8109E57B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ACCA37-73E0-4F1F-AACF-3F8109E57B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876BE032-CB65-469C-8BCC-AB896B340477}
+	EndGlobalSection
+EndGlobal

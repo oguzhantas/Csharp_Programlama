@@ -1,0 +1,7 @@
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\bin\Debug\047 Dizi İki Boyutlu Konsol.exe.config
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\bin\Debug\047 Dizi İki Boyutlu Konsol.exe
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\bin\Debug\047 Dizi İki Boyutlu Konsol.pdb
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\obj\Debug\047 Dizi İki Boyutlu Konsol.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\obj\Debug\047 Dizi İki Boyutlu Konsol.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\obj\Debug\047 Dizi İki Boyutlu Konsol.exe
+D:\Yeni_CSharp_Kodlar\047 Dizi İki Boyutlu Konsol\obj\Debug\047 Dizi İki Boyutlu Konsol.pdb

@@ -1,0 +1,10 @@
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\bin\Debug\045 Dizi içindeki Rakamları Bulma.exe.config
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\bin\Debug\045 Dizi içindeki Rakamları Bulma.exe
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\bin\Debug\045 Dizi içindeki Rakamları Bulma.pdb
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\045 Dizi içindeki Rakamları Bulma.csproj.AssemblyReference.cache
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\_045_Dizi_içindeki_Rakamları_Bulma.Form1.resources
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\_045_Dizi_içindeki_Rakamları_Bulma.Properties.Resources.resources
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\045 Dizi içindeki Rakamları Bulma.csproj.GenerateResource.cache
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\045 Dizi içindeki Rakamları Bulma.csproj.CoreCompileInputs.cache
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\045 Dizi içindeki Rakamları Bulma.exe
+D:\Yeni_CSharp_Kodlar\045 Dizi içindeki Rakamları Bulma\obj\Debug\045 Dizi içindeki Rakamları Bulma.pdb
