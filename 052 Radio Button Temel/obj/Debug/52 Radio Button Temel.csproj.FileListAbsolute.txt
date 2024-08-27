@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\52 Radio Button Temel\bin\Debug\52 Radio Button Temel.exe.config
+C:\Users\oguzh\source\repos\52 Radio Button Temel\bin\Debug\52 Radio Button Temel.exe
+C:\Users\oguzh\source\repos\52 Radio Button Temel\bin\Debug\52 Radio Button Temel.pdb
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\52 Radio Button Temel.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\_52_Radio_Button_Temel.Form1.resources
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\_52_Radio_Button_Temel.Properties.Resources.resources
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\52 Radio Button Temel.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\52 Radio Button Temel.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\52 Radio Button Temel.exe
+C:\Users\oguzh\source\repos\52 Radio Button Temel\obj\Debug\52 Radio Button Temel.pdb
