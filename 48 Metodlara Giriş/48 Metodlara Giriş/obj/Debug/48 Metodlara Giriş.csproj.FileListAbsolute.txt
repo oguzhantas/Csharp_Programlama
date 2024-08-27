@@ -1,7 +1,0 @@
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\bin\Debug\48 Metodlara Giriş.exe.config
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\bin\Debug\48 Metodlara Giriş.exe
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\bin\Debug\48 Metodlara Giriş.pdb
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\obj\Debug\48 Metodlara Giriş.csproj.AssemblyReference.cache
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\obj\Debug\48 Metodlara Giriş.csproj.CoreCompileInputs.cache
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\obj\Debug\48 Metodlara Giriş.exe
-C:\Users\oguzh\source\repos\48 Metodlara Giriş\48 Metodlara Giriş\obj\Debug\48 Metodlara Giriş.pdb
