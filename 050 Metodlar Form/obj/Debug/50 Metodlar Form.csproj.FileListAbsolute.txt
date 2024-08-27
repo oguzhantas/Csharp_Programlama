@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\50 Metodlar Form.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\_50_Metodlar_Form.Form1.resources
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\_50_Metodlar_Form.Properties.Resources.resources
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\50 Metodlar Form.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\50 Metodlar Form.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\50 Metodlar Form\bin\Debug\50 Metodlar Form.exe.config
+C:\Users\oguzh\source\repos\50 Metodlar Form\bin\Debug\50 Metodlar Form.exe
+C:\Users\oguzh\source\repos\50 Metodlar Form\bin\Debug\50 Metodlar Form.pdb
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\50 Metodlar Form.exe
+C:\Users\oguzh\source\repos\50 Metodlar Form\obj\Debug\50 Metodlar Form.pdb

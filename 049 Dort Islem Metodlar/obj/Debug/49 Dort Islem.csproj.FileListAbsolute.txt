@@ -1,0 +1,7 @@
+C:\Users\oguzh\source\repos\49 Dort Islem\bin\Debug\49 Dort Islem.exe.config
+C:\Users\oguzh\source\repos\49 Dort Islem\bin\Debug\49 Dort Islem.exe
+C:\Users\oguzh\source\repos\49 Dort Islem\bin\Debug\49 Dort Islem.pdb
+C:\Users\oguzh\source\repos\49 Dort Islem\obj\Debug\49 Dort Islem.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\49 Dort Islem\obj\Debug\49 Dort Islem.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\49 Dort Islem\obj\Debug\49 Dort Islem.exe
+C:\Users\oguzh\source\repos\49 Dort Islem\obj\Debug\49 Dort Islem.pdb
