@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\bin\Debug\057 Metot Sonsuz Parametreli.exe.config
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\bin\Debug\057 Metot Sonsuz Parametreli.exe
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\bin\Debug\057 Metot Sonsuz Parametreli.pdb
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\057 Metot Sonsuz Parametreli.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\_057_Metot_Sonsuz_Parametreli.Form1.resources
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\_057_Metot_Sonsuz_Parametreli.Properties.Resources.resources
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\057 Metot Sonsuz Parametreli.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\057 Metot Sonsuz Parametreli.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\057 Metot Sonsuz Parametreli.exe
+C:\Users\oguzh\source\repos\057 Metot Sonsuz Parametreli\obj\Debug\057 Metot Sonsuz Parametreli.pdb

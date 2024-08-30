@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\bin\Debug\058 Veritabani_CRUD.exe.config
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\bin\Debug\058 Veritabani_CRUD.exe
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\bin\Debug\058 Veritabani_CRUD.pdb
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\058 Veritabani_CRUD.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\_058_Veritabani_CRUD.Form1.resources
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\_058_Veritabani_CRUD.Properties.Resources.resources
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\058 Veritabani_CRUD.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\058 Veritabani_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\058 Veritabani_CRUD.exe
+C:\Users\oguzh\source\repos\058 Veritabani_CRUD\obj\Debug\058 Veritabani_CRUD.pdb
