@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\bin\Debug\055 Metota Dizi Parametresi Gönderme.exe.config
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\bin\Debug\055 Metota Dizi Parametresi Gönderme.exe
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\bin\Debug\055 Metota Dizi Parametresi Gönderme.pdb
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\055 Metota Dizi Parametresi Gönderme.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\_055_Metota_Dizi_Parametresi_Gönderme.Form1.resources
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\_055_Metota_Dizi_Parametresi_Gönderme.Properties.Resources.resources
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\055 Metota Dizi Parametresi Gönderme.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\055 Metota Dizi Parametresi Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\055 Metota Dizi Parametresi Gönderme.exe
+C:\Users\oguzh\source\repos\055 Metota Dizi Parametresi Gönderme\obj\Debug\055 Metota Dizi Parametresi Gönderme.pdb

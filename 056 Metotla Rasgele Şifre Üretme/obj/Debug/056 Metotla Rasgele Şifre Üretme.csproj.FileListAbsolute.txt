@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\056 Metotla Rasgele Şifre Üretme.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\_056_Metotla_Rasgele_Şifre_Üretme.Form1.resources
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\_056_Metotla_Rasgele_Şifre_Üretme.Properties.Resources.resources
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\056 Metotla Rasgele Şifre Üretme.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\056 Metotla Rasgele Şifre Üretme.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\bin\Debug\056 Metotla Rasgele Şifre Üretme.exe.config
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\bin\Debug\056 Metotla Rasgele Şifre Üretme.exe
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\bin\Debug\056 Metotla Rasgele Şifre Üretme.pdb
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\056 Metotla Rasgele Şifre Üretme.exe
+C:\Users\oguzh\source\repos\056 Metotla Rasgele Şifre Üretme\obj\Debug\056 Metotla Rasgele Şifre Üretme.pdb
