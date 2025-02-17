@@ -1,0 +1,4 @@
+10:00 Matematik
+12:00 Edebiyat
+21:00 Programlama C#
+14:00 Veritabanı
